@@ -1,3 +1,6 @@
+//Cuenta a realizar:
+//3 -> 5 -> 0 -> 11 -> 11 -> 11 -> 2 -> 8 -> 12 -> 5
+
 //Modulo JK
 module JK(output reg Q, output wire nQ, input wire J, input wire K, input wire C);
 	not(nQ,Q);
