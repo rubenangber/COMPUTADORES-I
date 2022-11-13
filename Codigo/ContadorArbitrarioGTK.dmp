@@ -1,0 +1,331 @@
+$date
+	Wed Dec  1 12:59:08 2021
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module TestModulo $end
+$scope module counter $end
+$var wire 1 ! C $end
+$var wire 1 " J0 $end
+$var wire 1 # J1 $end
+$var wire 1 $ J2 $end
+$var wire 1 % K0 $end
+$var wire 1 & K3 $end
+$var wire 1 ' Q0Q3 $end
+$var wire 1 ( Q0nQ3 $end
+$var wire 1 ) Q1Q3 $end
+$var wire 1 * and2 $end
+$var wire 1 + nQ0Q3 $end
+$var wire 1 , nQ1nQ3 $end
+$var wire 1 - nQ2nQ3 $end
+$var wire 1 . nQ3Q2 $end
+$var wire 1 / or1 $end
+$var wire 1 0 or2 $end
+$var wire 4 1 nQ [3:0] $end
+$var wire 4 2 Q [3:0] $end
+$var wire 1 3 K2 $end
+$var wire 1 4 K1 $end
+$var wire 1 5 J3 $end
+$var wire 4 6 I [3:0] $end
+$scope module JK0 $end
+$var wire 1 ! C $end
+$var wire 1 " J $end
+$var wire 1 % K $end
+$var wire 1 7 nQ $end
+$var reg 1 8 Q $end
+$upscope $end
+$scope module JK1 $end
+$var wire 1 ! C $end
+$var wire 1 # J $end
+$var wire 1 4 K $end
+$var wire 1 9 nQ $end
+$var reg 1 : Q $end
+$upscope $end
+$scope module JK2 $end
+$var wire 1 ! C $end
+$var wire 1 $ J $end
+$var wire 1 3 K $end
+$var wire 1 ; nQ $end
+$var reg 1 < Q $end
+$upscope $end
+$scope module JK3 $end
+$var wire 1 ! C $end
+$var wire 1 5 J $end
+$var wire 1 & K $end
+$var wire 1 = nQ $end
+$var reg 1 > Q $end
+$upscope $end
+$upscope $end
+$upscope $end
+$scope module TestModulo $end
+$var wire 4 ? Q [3:0] $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b11 ?
+0>
+1=
+0<
+1;
+1:
+09
+18
+07
+b11 6
+05
+14
+13
+b11 2
+b1100 1
+10
+1/
+0.
+1-
+0,
+0+
+0*
+0)
+1(
+0'
+0&
+0%
+1$
+1#
+0"
+0!
+$end
+#5
+0#
+1,
+0-
+1%
+0/
+1&
+1"
+1.
+19
+b101 6
+b1010 1
+0;
+0:
+b101 2
+b101 ?
+1<
+1!
+#10
+0!
+#15
+1#
+1-
+0%
+1/
+0$
+0.
+15
+b0 6
+0&
+0(
+1;
+b1111 1
+17
+03
+0<
+b0 2
+b0 ?
+08
+1!
+#20
+0!
+#25
+00
+0-
+0,
+0$
+1%
+05
+04
+1*
+0+
+1'
+1)
+07
+13
+09
+b1011 6
+b100 1
+0=
+18
+1:
+b1011 2
+b1011 ?
+1>
+1!
+#30
+0!
+#35
+1$
+10
+1+
+0#
+15
+0'
+b101 1
+17
+03
+b1010 2
+b1010 ?
+08
+1!
+#40
+0!
+#45
+0$
+00
+0+
+1#
+0*
+05
+1'
+b1011 6
+1&
+07
+13
+b0 1
+0;
+18
+b1111 2
+b1111 ?
+1<
+1!
+#50
+0!
+#55
+0"
+0%
+1-
+10
+1#
+14
+0)
+15
+b10 6
+0&
+0'
+1=
+1;
+b1101 1
+17
+03
+0>
+0<
+b10 2
+b10 ?
+08
+1!
+#60
+0!
+#65
+0#
+0-
+1$
+04
+1+
+19
+b1000 6
+b111 1
+0=
+0:
+b1000 2
+b1000 ?
+1>
+1!
+#70
+0!
+#75
+b1100 6
+1"
+b11 1
+0;
+b1100 2
+b1100 ?
+1<
+1!
+#80
+0!
+#85
+0$
+0/
+0+
+1#
+05
+b101 6
+1&
+1'
+b10 1
+07
+13
+b1101 2
+b1101 ?
+18
+1!
+#90
+0!
+#95
+1$
+1(
+1-
+14
+0'
+0&
+0"
+1/
+1=
+1;
+b1100 1
+09
+b11 6
+0>
+0<
+b11 2
+b11 ?
+1:
+1!
+#100
+$dumpoff
+bx ?
+x>
+x=
+x<
+x;
+x:
+x9
+x8
+x7
+bx 6
+x5
+x4
+x3
+bx 2
+bx 1
+x0
+x/
+x.
+x-
+x,
+x+
+x*
+x)
+x(
+x'
+x&
+x%
+x$
+x#
+x"
+x!
+$end
